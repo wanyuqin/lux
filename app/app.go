@@ -11,10 +11,10 @@ import (
 	"github.com/fatih/color"
 	"github.com/urfave/cli/v2"
 
-	"github.com/iawia002/lux/downloader"
-	"github.com/iawia002/lux/extractors"
-	"github.com/iawia002/lux/request"
-	"github.com/iawia002/lux/utils"
+	"github.com/wanyuqin/lux/downloader"
+	"github.com/wanyuqin/lux/extractors"
+	"github.com/wanyuqin/lux/request"
+	"github.com/wanyuqin/lux/utils"
 )
 
 const (

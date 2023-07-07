@@ -3,9 +3,9 @@ package huya
 import (
 	"github.com/pkg/errors"
 
-	"github.com/iawia002/lux/extractors"
-	"github.com/iawia002/lux/request"
-	"github.com/iawia002/lux/utils"
+	"github.com/wanyuqin/lux/extractors"
+	"github.com/wanyuqin/lux/request"
+	"github.com/wanyuqin/lux/utils"
 )
 
 func init() {

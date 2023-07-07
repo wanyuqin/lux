@@ -6,7 +6,7 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/iawia002/lux/extractors"
+	"github.com/wanyuqin/lux/extractors"
 )
 
 var (

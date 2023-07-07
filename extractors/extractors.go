@@ -7,7 +7,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/iawia002/lux/utils"
+	"github.com/wanyuqin/lux/utils"
 )
 
 var lock sync.RWMutex

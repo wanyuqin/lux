@@ -3,8 +3,8 @@ package huya
 import (
 	"testing"
 
-	"github.com/iawia002/lux/extractors"
-	"github.com/iawia002/lux/test"
+	"github.com/wanyuqin/lux/extractors"
+	"github.com/wanyuqin/lux/test"
 )
 
 func TestHuya(t *testing.T) {
